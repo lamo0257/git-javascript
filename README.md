@@ -1,2 +1,3 @@
 # git-javascript
-assignment 2
+Sherri Strobbe Lamont
+
